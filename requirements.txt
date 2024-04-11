@@ -1,0 +1,7 @@
+mysql-connector-python
+selenium
+requests
+tiktokApi
+pyperclip
+moviepy
+playwright==1.30.0
